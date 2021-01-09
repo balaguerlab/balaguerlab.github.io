@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Lab focus
 
-You can use the [editor on GitHub](https://github.com/balaguerlab/balaguerlab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Our computational neuroscience lab focuses on neuronal coding and ensemble modelling; with empahsis on machine learning approaches specifically designed for identifying neuronal activity dynamics.
+Our methododology stems from the combination of operators in reproducing kernel-hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology _in vivo_ and _in vitro_. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+-Async-Prop
+
+-Predictability
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
