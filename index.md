@@ -3,9 +3,12 @@
 Our computational neuroscience lab focuses on neuronal coding and ensemble modelling; with empahsis on machine learning approaches specifically designed for identifying neuronal activity dynamics.
 Our methododology stems from the combination of operators in reproducing kernel-hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology _in vivo_ and _in vitro_. 
 
-### Projects
+### People
 
--Async-Prop
+**[Roman Arango-Cabrera]** (https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
+![Image](src)
+PhD topic: ropagation of spontaneous activity in confined neuronal networks
+Funding: Async
 
 -Predictability
 
