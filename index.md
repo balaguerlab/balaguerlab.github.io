@@ -15,7 +15,7 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 
 [Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)
-<img align="left" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
+<img align="left" width=100 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
   PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
 
   Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University
