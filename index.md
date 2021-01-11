@@ -8,8 +8,7 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 ### [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
 <img align="left" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
 PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
-
-
+<p>&nbsp;</p>
 Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). RED11549, Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). Bournemouth University & Institue for Biomedical Research 'August Pi in Sunyer'. 
 
 <br/><br/>
@@ -17,7 +16,7 @@ Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structur
 ### [Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)
 <img align="left" width=120 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
 PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
-
+<p>&nbsp;</p>
 Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
            
 <br/><br/>
@@ -25,7 +24,7 @@ Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org
 ### [Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)
 <img align="left" width=120 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
   PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
-
+<p>&nbsp;</p>
   Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
            
            
