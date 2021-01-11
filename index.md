@@ -6,12 +6,12 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 ## People
 ### [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
-<img align="left" width=120 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
+<img align="left" width=130 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
   PhD topic: Propagation of spontaneous activity in confined neuronal networks.
 
   Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Bournemouth University/Institue for Biomedical Research 'August Pi in Sunyer'. RED11549, Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme).
 
-
+<br/><br/>
 
 ### [Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)
 <img align="left" width=150 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
