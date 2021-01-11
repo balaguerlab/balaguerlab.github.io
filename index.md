@@ -1,6 +1,6 @@
 ## Lab focus
 
-Our computational neuroscience lab focuses on neuronal coding and ensemble modelling; with emphasis on designing machine learning approaches specialized in identifying neuronal activity dynamics underlying cognition.
+Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. We put emphasis on devising machine learning approaches for identifying neuronal activity dynamics underlying cognition.
 
 Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. 
 
@@ -8,9 +8,9 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
 <img align="left" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
-PhD topic: Propagation of spontaneous activity in confined neuronal networks.
+  PhD topic: Propagation of spontaneous activity in confined neuronal networks.
 
-Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Bournemouth University/Institue for Biomedical Research 'August Pi in Sunyer'. HBP
+  Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Bournemouth University/Institue for Biomedical Research 'August Pi in Sunyer'. HBP
 
 
 -Predictability
