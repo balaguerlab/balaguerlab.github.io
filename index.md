@@ -14,7 +14,7 @@ Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structur
 <br/><br/>
 
 ### [Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)
-<img align="left" width=120 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
+<img align="left" width=115 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
 PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
 <p>&nbsp;</p>
 Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
@@ -22,7 +22,7 @@ Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org
 <br/><br/>
 
 ### [Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)
-<img align="left" width=120 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
+<img align="left" width=110 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
   PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
 <p>&nbsp;</p>
   Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
