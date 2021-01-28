@@ -2,7 +2,7 @@
 
 Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. We put emphasis on devising machine learning approaches for identifying neuronal activity dynamics underlying cognition.
 
-## People, colaborations and alumni
+## People, collaborations and alumni
 
 **[Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)**
 <img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
@@ -41,7 +41,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 **[Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)**
 * PhD topic: Structural Equation Modelling of Quality of Life  
                      
-#### Alumni & previous collaborations 
+#### Alumni 
 
 **[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * [Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)
