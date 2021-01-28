@@ -1,12 +1,10 @@
 ## Lab focus
 
-Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. We put emphasis on devising machine learning approaches for identifying neuronal activity dynamics underlying cognition.
-
-Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. 
+Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. We put emphasis on devising machine learning approaches for identifying neuronal activity dynamics underlying cognition.
 
 ## People
 
-#### Collaboration with Sanchez-Vives Lab
+#### Collaboration with Sanchez-Vives and Maurizio Mattia Labs
 
 **[Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)**
 <img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
@@ -15,12 +13,16 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 <br/>
 
+#### Collaboration with Dr Xun He, Sony Playstation London
+
 **[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
 <img align="right" width=110 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
 * PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
            
 <br/>
+
+#### Collaboration with Dr Ellen Seiss, Emteq labs
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 <img align="right" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
@@ -29,12 +31,33 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 <br/>
 
+
+#### Collaboration with Dr Ellen Seiss, Dr Thodoris Kostolulas, Emteq labs
+
+**[Michal Ganeck](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
+<img align="right" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
+* PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
+* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+
+<br/>
+
+#### Collaboration with Dr Shahin Rostami, Colin Labs
+
 **[Daniel Dimanov](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 <img align="left" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
 * PhD topic: Neuroe.
-* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+* Funding: [Colin Lab](https://www.digital-entertainment.org/) & Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+
+<br/>
+
+#### Collaboration with Dr Shahin Rostami, Colin Labs
+
+**[Daniel Dimanov](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
+<img align="left" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
+* PhD topic: Neuroe.
+* Funding: [Colin Lab](https://www.digital-entertainment.org/) & Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
            
-           
+ ### Alumni      
            
            
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
