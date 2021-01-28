@@ -42,22 +42,9 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 <br/>
 
 #### Collaboration with Dr Shahin Rostami, Colin Labs
-
-**[Daniel Dimanov](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
-<img align="left" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
-* PhD topic: Neuroe.
-* Funding: [Colin Lab](https://www.digital-entertainment.org/) & Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
-
-<br/>
-
-#### Collaboration with Dr Shahin Rostami, Colin Labs
-
-**[Daniel Dimanov](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
-<img align="left" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
-* PhD topic: Neuroe.
-* Funding: [Colin Lab](https://www.digital-entertainment.org/) & Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
            
- ### Alumni      
+           
+### Alumni      
            
            
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
