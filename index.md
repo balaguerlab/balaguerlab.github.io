@@ -22,10 +22,11 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
            
 <br/>
 
-#### Collaboration with Dr Ellen Seiss, Emteq labs
+
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 <img align="right" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
+* Collaboration with Dr Ellen Seiss, Emteq labs 
 * PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
