@@ -35,8 +35,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
 
 
-
-<br/>
+<!--<br/>-->
 
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
