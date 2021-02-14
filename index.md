@@ -10,7 +10,7 @@ Our focus is on computational neuroscience. We develop machine learning approach
 * Nogueira, R., Abolafia, J.M., Drugowitsch, J., Balaguer-Ballester, E., Sanchez-Vives, M.V. and Moreno-Bote, R., 2017. [Lateral orbitofrontal cortex anticipates choices and integrates prior with current information](https://www.nature.com/articles/ncomms14823). Nature Communications, 8.
 * Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
 
-#### More information and publications:
+#### More information and papers
 * [https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
 * [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)**
 
@@ -22,7 +22,7 @@ Our focus is on computational neuroscience. We develop machine learning approach
 #### [Higher-order Noise Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">
 **Related publications**
-Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
+* Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 
 [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">
