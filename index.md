@@ -1,8 +1,12 @@
 ## Lab focus
 
-Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. We put emphasis on devising machine learning approaches for identifying neuronal activity dynamics underlying cognition.
+Our computational neuroscience lab focuses on neuronal coding and ensemble modelling. We put emphasis on devising machine learning approaches for understanding neuronal activity dynamics underlying cognition. We collaborate closely with experimental labs in human and animal neurophysiology; and have also broader partnerships in applied data analysis.   
 
-Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. 
+<!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
+
+## Source code
+
+
 
 ## People and collaborations
 
