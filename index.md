@@ -16,7 +16,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876971-49c01280-6ec1-11eb-9ed2-f0114465e172.jpg">
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
-* Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). Bournemouth University & Institue for Biomedical Research 'August Pi in Sunyer'. 
+* Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka_Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
 
