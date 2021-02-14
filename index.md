@@ -1,6 +1,6 @@
 ## Lab focus
 
-Our focus is on computational neuroscience. We develop machine learning and neural ensemble models for understanding neuronal activity dynamics underlying cognition, though close collaborations with experimental labs in human and animal neurophysiology. We have also broader partnerships in applied data analysis projects.
+Our focus is on computational neuroscience. We develop machine learning approaches and models for understanding neural dynamics underlying cognition, though close collaborations with experimental labs in human and animal neurophysiology. We have also broader partnerships in applied data analysis projects.
 
 #### Featured recent publications
 
