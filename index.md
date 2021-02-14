@@ -22,7 +22,7 @@ Our focus is on computational neuroscience. We develop machine learning approach
 
 [<img align="right" width=200 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
 
-<\br>
+<br/>
 
 Related publications
 
