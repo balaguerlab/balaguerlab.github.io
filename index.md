@@ -13,7 +13,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
 **[Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)**
-<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
+<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876971-49c01280-6ec1-11eb-9ed2-f0114465e172.jpg">
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). RED11549, Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). Bournemouth University & Institue for Biomedical Research 'August Pi in Sunyer'. 
@@ -29,7 +29,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 #### Collaboration with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)
 
 **[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
-<img align="right" width=110 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
+<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
 <!--* In partnership with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)-->
 * PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
@@ -40,17 +40,17 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
 **[Michal Gnacek](https://uk.linkedin.com/in/gnacek)**
+<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
 * PhD topic: Affect Recognition in Virtual Reality Environments
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
-
 **[Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov)**
+<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876751-c0f4a700-6ebf-11eb-9fbd-a4c70cdbb450.jpg">
 * PhD topic: Multi-Objective Concealed Weapon Detection 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
 
 #### Collaboration with [Phillip Davies](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
-
 **[Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)**
 * PhD topic: Structural Equation Modelling of Quality of Life  
                      
