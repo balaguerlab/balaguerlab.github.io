@@ -48,7 +48,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
-[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107882673-ae3f9980-6ee2-11eb-8b84-537121baeecb.jpg">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=60 src="https://user-images.githubusercontent.com/75138250/107883031-3ffbd680-6ee4-11eb-89ab-07cfc4dbeed2.pn">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
