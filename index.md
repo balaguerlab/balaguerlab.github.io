@@ -11,9 +11,9 @@ Our focus is on computational neuroscience. We develop machine learning approach
 * Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
 
 #### More information and papers
-* [https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
-* [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)**
-[<img align="left" width=40 src="ttps://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) 
+* [https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+* [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
+* [<img align="left" width=40 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball)  [@emilibalball](https://twitter.com/emilibalball)
 
 <!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
