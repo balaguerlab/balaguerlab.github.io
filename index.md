@@ -53,10 +53,8 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 [<img align="right" width=115 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
-
-* Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
-
+* Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
 ## Collaborative projects
 
