@@ -19,7 +19,7 @@ Our focus is on computational neuroscience. We develop machine learning approach
 ## Source code
 
 [<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107882466-7ab03f80-6ee1-11eb-8a45-6e52a0de5a36.png">](https://github.com/balaguerlab/hoc)
-[<img align="right" width=150 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
+[<img align="right" width=175 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
 
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 
@@ -29,7 +29,7 @@ Related publications
 
 
 [<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107882466-7ab03f80-6ee1-11eb-8a45-6e52a0de5a36.png">](https://github.com/balaguerlab/ntr)
-[<img align="right" width=150 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">](https://doi.org/10.5281/zenodo.4306743)
+[<img align="right" width=175 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">](https://doi.org/10.5281/zenodo.4306743)
 
 #### [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
 
@@ -48,10 +48,10 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
-[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107882673-ae3f9980-6ee2-11eb-8b84-537121baeecb.jpg">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=30 src="https://user-images.githubusercontent.com/75138250/107882673-ae3f9980-6ee2-11eb-8b84-537121baeecb.jpg">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
-Updated and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
