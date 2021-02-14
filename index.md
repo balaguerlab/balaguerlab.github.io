@@ -47,7 +47,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
-[<img align="right" width=118 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=116 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
