@@ -22,8 +22,6 @@ Our focus is on computational neuroscience. We develop machine learning approach
 
 [<img align="right" width=200 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
 
-**Related publications**
-
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 
 [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
