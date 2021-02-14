@@ -6,25 +6,31 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 ## People and collaborations
 
-####
+#### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
 **[Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)**
 <img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/104132206-a5075e00-5373-11eb-8526-7021f903e016.jpg">
-* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
+<!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). RED11549, Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). Bournemouth University & Institue for Biomedical Research 'August Pi in Sunyer'. 
 
-**[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
-<img align="right" width=110 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
-* In partnership with Xun He (https://staffprofiles.bournemouth.ac.uk/display/xhe), Jesus Lucas Barcias (https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)
-* PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
-* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
+#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka_Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 <img align="right" width=105 src="https://user-images.githubusercontent.com/75138250/104244919-42898d00-545b-11eb-872a-d88e943fd5c3.png">
-* In partnership with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
+<!--* In partnership with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)-->
 * PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+
+#### Collaboration with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)
+
+**[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
+<img align="right" width=110 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
+<!--* In partnership with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)-->
+* PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
+* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
+
+
 
 <br/>
 
