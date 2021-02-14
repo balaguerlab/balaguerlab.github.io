@@ -33,7 +33,7 @@ Related publications
 
 #### [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
 
-Related recent publications:
+Recent related publications:
 
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 * Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
@@ -48,7 +48,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
-[<img align="right" width=60 src="https://user-images.githubusercontent.com/75138250/107883031-3ffbd680-6ee4-11eb-89ab-07cfc4dbeed2.pn">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=60 src="(https://user-images.githubusercontent.com/75138250/107883101-bbf61e80-6ee4-11eb-8289-c2dd0d72ae4a.jpg">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
