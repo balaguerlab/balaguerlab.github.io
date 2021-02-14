@@ -20,7 +20,7 @@ Our focus is on computational neuroscience. We develop machine learning approach
 
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/balaguerlab/hoc)
-[<img align="right" width=185 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
+[<img align="right" width=180 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
 
 Related publications
 
@@ -29,7 +29,7 @@ Related publications
 
 #### [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/balaguerlab/ntr)
-[<img align="right" width=185 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">](https://doi.org/10.5281/zenodo.4306743)
+[<img align="right" width=180 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">](https://doi.org/10.5281/zenodo.4306743)
 
 Recent related publications:
 
@@ -47,7 +47,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
-[<img align="right" width=116 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=115 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
