@@ -21,7 +21,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka_Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877389-0ca94f80-6ec4-11eb-8178-50a97c4024b0.jpg">
+<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877431-56923580-6ec4-11eb-9753-1926802a2eea.jpg">
 <!--* In partnership with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)-->
 * PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
