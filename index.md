@@ -18,26 +18,33 @@ Our focus is on computational neuroscience. We develop machine learning approach
 
 ## Source code
 
-
-[<img align="right" width=200 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
-
 <!--[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107881383-0b841c80-6edc-11eb-89ea-fa08362e24a6.jpg">](https://doi.org/10.5281/zenodo.4306359)-->
 
-#### Higher-order Correlations in Neuronal Ensembles
+[<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
+
+#### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 
 Related publications
 
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 
-[Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
-<img align="right" width=200 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">
+#### [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
+[<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/107880461-c90c1100-6ed6-11eb-9310-5ec812202f86.jpg">](https://doi.org/10.5281/zenodo.4306743)
 
-Related recent publications
+Related recent publications:
 
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 * Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
-<!--* Balaguer-Ballester, E., Tabas-Diaz, A. and Budka, M., 2014. [Can we identify non-stationary dynamics of trial-to-trial variability?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095648). PLoS One, 9 (4).
+<!-- * Balaguer-Ballester, E., Tabas-Diaz, A. and Budka, M., 2014. [Can we identify non-stationary dynamics of trial-to-trial variability?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095648). PLoS One, 9 (4).
 * Balaguer-Ballester, E., Lapish, C.C., Seamans, J.K. and Durstewitz, D., 2011. [Attracting dynamics of frontal cortex ensembles during memory-guided decision-making](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002057). PLoS Comput Biol, 7 (5), e1002057.-->
+
+#### [Biophysical model of pitch and consonance processing](https://github.com/qtabs/moch)
+[<img align="right" width=200 src="https://user-images.githubusercontent.com/75138250/107882184-d4176f00-6edf-11eb-9a84-1b4d94e9953c.jpg">](https://github.com/qtabs/moch)
+
+Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+
+* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
+
 
 
 ## Collaborative projects
