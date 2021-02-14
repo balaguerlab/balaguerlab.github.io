@@ -18,8 +18,8 @@ Our focus is on computational neuroscience. We develop machine learning approach
 
 ## Source code
 
-[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107882466-7ab03f80-6ee1-11eb-8a45-6e52a0de5a36.png">](https://github.com/balaguerlab/hoc)
-[<img align="right" width=175 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
+[<img align="right" width=70 src="https://user-images.githubusercontent.com/75138250/107882466-7ab03f80-6ee1-11eb-8a45-6e52a0de5a36.png">](https://github.com/balaguerlab/hoc)
+[<img align="right" width=190 src="https://user-images.githubusercontent.com/75138250/107880421-8fd3a100-6ed6-11eb-9237-a36de82a3c8c.jpg">](https://doi.org/10.5281/zenodo.4306359)
 
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 
