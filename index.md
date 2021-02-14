@@ -8,7 +8,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 
 
 
-## People and collaborations
+## Collaborations
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
