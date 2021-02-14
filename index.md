@@ -2,7 +2,17 @@
 
 Our focus is on computational neuroscience. We develop machine learning and neural ensemble models for understanding neuronal activity dynamics underlying cognition, though close collaborations with experimental labs in human and animal neurophysiology. We have also broader partnerships in applied data analysis projects.
 
-[More information and publications](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester): https://staffprofiles.bournemouth.ac.uk/display/eb-ballester 
+#### Featured recent publications
+
+* Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
+* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
+* Michailidis, L., Balaguer-Ballester, E. and He, X., 2018. [Flow and immersion in video games: The aftermath of a conceptual challenge](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01682/full). Frontiers in Psychology, 9
+* Nogueira, R., Abolafia, J.M., Drugowitsch, J., Balaguer-Ballester, E., Sanchez-Vives, M.V. and Moreno-Bote, R., 2017. [Lateral orbitofrontal cortex anticipates choices and integrates prior with current information](https://www.nature.com/articles/ncomms14823). Nature Communications, 8.
+* Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
+
+#### [More information and publications](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester):
+* https://staffprofiles.bournemouth.ac.uk/display/eb-ballester 
+* http://orcid.org/0000-0002-0695-7191
 
 <!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
