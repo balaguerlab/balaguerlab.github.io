@@ -39,6 +39,7 @@ Recent related publications:
 
 #### [Biophysical model of pitch and consonance processing in auditory cortex](https://github.com/qtabs/moch)
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
+[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)
 
 Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
@@ -46,7 +47,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 
 
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
-[<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107883101-bbf61e80-6ee4-11eb-8289-c2dd0d72ae4a.jpg">](https://sourceforge.net/projects/topdownpitchmodel/files/)
+[<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
 Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
