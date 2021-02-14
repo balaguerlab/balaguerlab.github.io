@@ -4,7 +4,7 @@ Our computational neuroscience lab focuses on neuronal coding and ensemble model
 
 Our methododology stems from the combination of statistical analyses in hilbert spaces with nonlinear dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology. 
 
-## People, collaborations and alumni
+## People and collaborations
 
 ####
 
@@ -28,13 +28,13 @@ Our methododology stems from the combination of statistical analyses in hilbert 
 
 <br/>
 
-#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Emteq labs](https://www.emteqlabs.com/)
+#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
 **[Michal Gnacek](https://uk.linkedin.com/in/gnacek)**
 * PhD topic: Affect Recognition in Virtual Reality Environments
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
-#### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), Counting labs(https://www.countinglabs.co.uk/)
+#### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
 
 **[Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov)**
 * PhD topic: Multi-Objective Concealed Weapon Detection 
