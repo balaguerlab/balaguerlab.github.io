@@ -1,8 +1,8 @@
 ## Lab focus
 
-Our computational neuroscience lab focuses on machine learning and neural ensemble models for understanding neuronal activity dynamics underlying cognition. We collaborate closely with experimental labs in human and animal neurophysiology; and have also broader partnerships in applied data analysis.  
+Our focus is on computational neuroscience. We develop machine learning and neural ensemble models for understanding neuronal activity dynamics underlying cognition, though close collaborations with experimental labs in human and animal neurophysiology. We have also broader partnerships in applied data analysis projects.
 
-[More information and publications](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)  
+[More information and publications](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester): https://staffprofiles.bournemouth.ac.uk/display/eb-ballester 
 
 <!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
