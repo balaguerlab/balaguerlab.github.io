@@ -1,3 +1,4 @@
+
 ## Lab focus
 
 Our focus is on computational neuroscience. We develop machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. In addition, we are partners in a range of data analysis projects.
@@ -46,7 +47,7 @@ Recent related publications:
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
 [<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)
 
-Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
@@ -54,7 +55,7 @@ Coded and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologi
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 [<img align="right" width=115 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
-Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
