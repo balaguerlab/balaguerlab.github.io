@@ -110,28 +110,28 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 **[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * Technische Universitat Dresden <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
 
-**[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) (Xun He's lab)**
+**[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) ([Xun He's](https://staffprofiles.bournemouth.ac.uk/display/xhe) lab)**
 * Aalto University <!---[Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)-->
 
 **[Dr Bassma Al-Jubouri](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * Norwegian university of science and technology <!---[Norwegian university of science and technology](https://www.ntnu.edu/)-->
 
-**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk) (Ben Parris' lab)**
+**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
 * Wave Healthcare <!---[Wave Healthcare](https://www.wavehealthcare.co.uk/)-->
 
-**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari) (Alexios Myona's lab)**
+**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari) ([Alexios Mylonas'](https://researchprofiles.herts.ac.uk/portal/en/persons/alexios-mylonas(7fd4165b-8cb0-45c3-945a-ea326ebb3eae).html) lab)**
 * University of Surrey <!---[University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari)-->
 
 **[Dr Amir Rafati-Afshar](https://www.linkedin.com/in/aarafatiafshar)**
 * Barnes & Noble, Inc <!---[Barnes & Noble, Inc](https://www.barnesandnobleinc.com/)-->
 
-**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci) (Ben Parris' lab)**
+**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
 * Bournemouth University <!---[Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci)-->
 
-**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en) (Hamid Bouchachia's lab)**
+**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
 * Konica Minolta Global R&D <!--[Konica Minolta Global R&D](https://research.konicaminolta.com/)-->
 
-**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) (Hamid Bouchachia's lab)**
+**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
 * Roxbury Asset <!---[Roxbury Asset](http://roxbury-am.com/)-->
 
 <!---         
