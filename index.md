@@ -69,7 +69,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
-#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka_Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
+#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877488-b7ba0900-6ec4-11eb-934b-89cc2658a354.jpg">
@@ -110,28 +110,28 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 **[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * Technische Universitat Dresden <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
 
-**[Dr Juan Camilo Avendaño Diaz ](https://research.aalto.fi/en/persons/juan-avendano-diaz)**
+**[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) (Xun He's lab)**
 * Aalto University <!---[Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)-->
 
 **[Dr Bassma Al-Jubouri](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * Norwegian university of science and technology <!---[Norwegian university of science and technology](https://www.ntnu.edu/)-->
 
-**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk)**
+**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk) (Ben Parris' lab)**
 * Wave Healthcare <!---[Wave Healthcare](https://www.wavehealthcare.co.uk/)-->
 
-**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari)**
+**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari) (Alexios Myona's lab)**
 * University of Surrey <!---[University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari)-->
 
 **[Dr Amir Rafati-Afshar](https://www.linkedin.com/in/aarafatiafshar)**
 * Barnes & Noble, Inc <!---[Barnes & Noble, Inc](https://www.barnesandnobleinc.com/)-->
 
-**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci)**
+**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci) (Ben Parris' lab)**
 * Bournemouth University <!---[Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci)-->
 
-**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en)**
+**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en) (Hamid Bouchachia's lab)**
 * Konica Minolta Global R&D <!--[Konica Minolta Global R&D](https://research.konicaminolta.com/)-->
 
-**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk)**
+**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) (Hamid Bouchachia's lab)**
 * Roxbury Asset <!---[Roxbury Asset](http://roxbury-am.com/)-->
 
 <!---         
