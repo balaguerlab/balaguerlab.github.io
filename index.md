@@ -1,7 +1,7 @@
 
 ## Lab focus
 
-Our focus is on computational neuroscience. We develop machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. In addition, we are partners in a range of data analysis projects.
+This is the source code repository of our lab, focused on computational neuroscience in the context of the [Interdisciplinary Neuroscience Research Centre at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre). We develop machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. In this area, our main line of work revolves around analyzing neuronal activity recordings and model representations in Hilbert spaces; we have also developed mesoscopic models of auditory perception. In addition, we are partners in a range of data analysis projects ([more information in Balaguer-Ballester's profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 #### Featured recent publications
 
@@ -17,6 +17,9 @@ Our focus is on computational neuroscience. We develop machine learning approach
 [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
 <br/>
 [<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)
+<br/>
+[Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+
 
 <!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
