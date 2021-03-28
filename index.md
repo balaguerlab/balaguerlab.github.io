@@ -1,7 +1,7 @@
 
 ## Lab focus
 
-This is the source code repository of our computational neuroscience lab, in the context of the Interdisciplinary Neuroscience Research Centre at Bournemouth University. We formulate machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. In this area, our main line of work revolves around analyzing neuronal activity recordings and biophysical model representations in Reproducing Kernel-Hilbert spaces; we have also developed mesoscopic models of auditory cortex. In addition, we are partners in a range of data analysis projects.
+This is the source code repository of our computational neuroscience lab, in the context of the Interdisciplinary Neuroscience Research Centre at Bournemouth University. We devise machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. In this line of work, our methodology focuses on analysing multi-electorde array recordings and biophysical model representations in Hilbert spaces; we have also developed mesoscopic models of auditory cortex. In addition, we are partners in a range of data analysis projects.
 
 #### Featured recent publications
 
