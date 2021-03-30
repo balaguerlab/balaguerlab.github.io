@@ -1,8 +1,8 @@
 
 ## Lab focus
 
-This is the source code repository of our computational neuroscience lab, in the context of the Interdisciplinary Neuroscience Research Centre at Bournemouth University. We devise machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. 
-In this line of work, the lab's methodology focuses on the analysis of multi-electrode array recordings and their biophysical model's representations in Hilbert spaces; we have also developed mesoscopic models of auditory cortex. In addition, we are partners in a range of appplied data analysis projects.
+This is the source code repository of our computational neuroscience lab. We devise machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. 
+In this line of work, the lab's methodology focuses on the analysis of multi-electrode array recordings and biophysical models in Hilbert spaces; we have also developed mesoscopic models of auditory cortex. In addition, we are partners in a range of appplied data analysis projects.
 
 #### Featured recent publications
 
@@ -13,13 +13,16 @@ In this line of work, the lab's methodology focuses on the analysis of multi-ele
 * Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
 
 #### More information and papers
+
+[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+
 [https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 <br/>
 [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
 <br/>
 [<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)
 <br/>
-[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+
 
 
 <!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
