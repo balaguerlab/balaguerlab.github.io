@@ -15,7 +15,7 @@ In this line of work, the lab's methodology focuses on the analysis of multi-ele
 #### More information and papers
 
 [Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
-
+<br/>
 [https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 <br/>
 [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
