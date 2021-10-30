@@ -20,7 +20,7 @@ In this line of work, the lab's methodology concentrates on the analysis of mult
 <br/>
 [http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
 <br/>
-[https://www.overleaf.com?r=4307e306&rm=d&rs=b](https://www.overleaf.com?r=4307e306&rm=d&rs=b)
+[https://www.overleaf.com?r=4307e306&rm=d&rs=b](https://www.overleaf.com)
 <br/>
 [<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)
 <br/>
