@@ -71,14 +71,14 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 ## Current projects
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
-**Validating Cortical Network Models at the Edge of Asynchrony (March 2021-March 2024)**
+**Validating Cortical Network Models at the Edge of Asynchrony**
 <img align="right" width=120 src="The_Royal_Society_logo.png">
-* Funding: [Royal Society International Exchanges](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
+* Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 
 #### Collaboration with [Andrew Rowley](https://apt.cs.manchester.ac.uk/people/arowley/), [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
-**Neuromorphic Hardware Operating at the Edge of Asynchrony (July 2022-Sept 2023)**
+**Neuromorphic Hardware Operating at the Edge of Asynchrony**
 <img align="right" width=120 src="HBP-Logo_thin.png">
-* Funding: [Human Brain Project, Vouchers Scheme. European Research Council](https://www.humanbrainproject.eu/en/) 
+* Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/) 
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
