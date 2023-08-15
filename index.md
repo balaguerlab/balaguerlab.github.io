@@ -71,40 +71,42 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 ## Current projects
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
-**Validating Cortical Network Models at the Edge of Asynchrony**
+*Validating Cortical Network Models at the Edge of Asynchrony*
 <img align="right" width=120 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
+<br>
 
 #### Collaboration with [Andrew Rowley](https://apt.cs.manchester.ac.uk/people/arowley/), [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
-**Neuromorphic Hardware Operating at the Edge of Asynchrony**
+*Neuromorphic Hardware Operating at the Edge of Asynchrony*
 <img align="right" width=120 src="HBP-Logo_thin.png">
-* Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/) 
+* Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
+<br>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
-**[Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)**
+*Propagation of spontaneous activity in confined neuronal networks*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877316-8856cc80-6ec3-11eb-80aa-5c249ee165da.jpg">
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
-* PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
+* PhD project by [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
-**[Michal Gnacek](https://uk.linkedin.com/in/gnacek)**
+*Affect Recognition in Virtual Reality Environments*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
-* PhD topic: Affect Recognition in Virtual Reality Environments
+* EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
-**[Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov)**
+*Efficient Multi-Objective NeuroEvolution in Computer Vision with Applications for Computer Vision*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876751-c0f4a700-6ebf-11eb-9fbd-a4c70cdbb450.jpg">
-* PhD topic: Multi-Objective Concealed Weapon Detection 
+* PhD project by [Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov) 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
 
 #### Collaboration with [Phillip Davies](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
-**[Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)**
+*Structural Equation Modelling of Quality of Life*
 <img align="right" width=120 src="photoOgochuwku2.jpg"> 
-* PhD topic: Structural Equation Modelling of Quality of Life
+* PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
 <br/>
 <br/>
 
