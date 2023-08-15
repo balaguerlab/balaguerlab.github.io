@@ -68,7 +68,17 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
-## PhD projects
+## Current projects
+
+#### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
+**Validating Cortical Network Models at the Edge of Asynchrony (March 2021-March 2024)**
+<img align="right" width=120 src="The_Royal_Society_logo.png">
+* Funding: [Royal Society International Exchanges](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
+
+#### Collaboration with [Andrew Rowley](https://apt.cs.manchester.ac.uk/people/arowley/), [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
+**Neuromorphic Hardware Operating at the Edge of Asynchrony (July 2022-Sept 2023)**
+<img align="right" width=120 src="HBP-Logo_thin.png">
+* Funding: [Human Brain Project, Vouchers Scheme. European Research Council](https://www.humanbrainproject.eu/en/) 
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -99,7 +109,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <br/>
 
 ## Lab coordination
-####                                                                
+#### <>
 **[Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
 <img align="right" width=120 src="FotoAug23Alacant_2e.jpg"> 
 * Faculty of Science and Technology, [Department of Computing](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
