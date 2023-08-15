@@ -78,8 +78,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
-<!--<br/>-->
-
 #### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
 **[Michal Gnacek](https://uk.linkedin.com/in/gnacek)**
@@ -95,9 +93,15 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 #### Collaboration with [Phillip Davies](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
 **[Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)**
-* PhD topic: Structural Equation Modelling of Quality of Life  
+<img align="right" width=120 src="photoOgochuwku2.jpg"> 
+* PhD topic: Structural Equation Modelling of Quality of Life
+<br/>
+## Lab coordination
+**[Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
+<img align="right" width=120 src="FotoAug23Alacant_2d.jpg"> 
+<br/>
                      
-#### Previous PhD students
+## Previous PhD students
 
 **[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 * [Emteq labs](https://www.emteqlabs.com/).
@@ -131,6 +135,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 **[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
 * Roxbury Asset <!---[Roxbury Asset](http://roxbury-am.com/)-->
+
 
 <!---         
            
