@@ -102,8 +102,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="FotoAug23Alacant_2e.jpg"> 
 * Faculty of Science and Technology, [Department of Computing](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
 * [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
-* Phone: +44 (0)1202 965 795. Twitter: @emilibalball.
-* Email: eb-ballester@bournemouth.ac.uk
+* Phone: +44 (0)1202 965 795. Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk
 
                      
 ## Previous PhD students
