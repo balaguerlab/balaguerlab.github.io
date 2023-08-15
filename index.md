@@ -13,12 +13,11 @@ In this line of work, the lab’s methodology concentrates on analyzing multi-el
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
 #### More information and papers
-
+[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+<br/>
 [Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 <br/>
-[https://staffprofiles.bournemouth.ac.uk/display/eb-ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
-<br/>
-[http://orcid.org/0000-0002-0695-719](http://orcid.org/0000-0002-0695-7191)
+[ORCID](http://orcid.org/0000-0002-0695-7191)
 <br/>
 [<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)
 <br/>
@@ -27,7 +26,7 @@ In this line of work, the lab’s methodology concentrates on analyzing multi-el
 
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
-## Source code
+## Codebases
 
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 <!--[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">]-->
@@ -80,7 +79,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="HBP-Logo_thin.png">
 * Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
 
-<br/>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -113,14 +111,16 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Structural Equation Modelling of Quality of Life*
 <img align="right" width=120 src="photoOgochuwku2.jpg"> 
 * PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
-<br/>
+* Funding: Self-funded & Bournemouth University.
+
 <br/>
 <br/>
 
 ## Lab coordination
-#### [Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+#### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+
 **Contact:**
-<img align="right" width=120 src="FotoAug23Alacant_2e.jpg"> 
+<img align="right" width=120 src="FotoAug23Alacant_2e.jpg">
 * Faculty of Science and Technology, [Department of Computing](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
 * [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
 * Phone: +44 (0)1202 965 795.
