@@ -96,17 +96,22 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="photoOgochuwku2.jpg"> 
 * PhD topic: Structural Equation Modelling of Quality of Life
 <br/>
+
 ## Lab coordination
 **[Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
-<img align="right" width=120 src="FotoAug23Alacant_2d.jpg"> 
-<br/>
+<img align="right" width=120 src="FotoAug23Alacant_2e.jpg"> 
+* Faculty of Science and Technology, [Department of Computing](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
+* [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
+* Phone: +44 (0)1202 965 795. Twitter: @emilibalball.
+* Email: eb-ballester@bournemouth.ac.uk
+
                      
 ## Previous PhD students
 
-**[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
+**[Dr Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 * [Emteq labs](https://www.emteqlabs.com/).
 
-**[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
+**[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
 * [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
 
 **[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
