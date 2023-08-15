@@ -25,7 +25,7 @@ In this line of work, the lab’s methodology concentrates on analyzing multi-el
 
 
 
-<!--Our methododology stems from the combination of hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
+<!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
 ## Source code
 
@@ -80,6 +80,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="HBP-Logo_thin.png">
 * Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
 
+<br/>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -116,7 +117,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <br/>
 <br/>
 
-## Coordination
+## Lab coordination
 #### [Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 **Contact:**
 <img align="right" width=120 src="FotoAug23Alacant_2e.jpg"> 
