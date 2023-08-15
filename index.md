@@ -97,7 +97,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD topic: Structural Equation Modelling of Quality of Life
 <br/>
 <br/>
-<br/>
 
 ## Lab coordination
 **[Emili Balaguer-Ballester](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
