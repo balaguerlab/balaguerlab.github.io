@@ -75,12 +75,14 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 <br>
+<br/>
 
 #### Collaboration with [Andrew Rowley](https://apt.cs.manchester.ac.uk/people/arowley/), [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Neuromorphic Hardware Operating at the Edge of Asynchrony*
 <img align="right" width=120 src="HBP-Logo_thin.png">
 * Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
 <br>
+<br/>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -98,7 +100,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
-*Efficient Multi-Objective NeuroEvolution in Computer Vision with Applications for Computer Vision*
+*Efficient Multi-Objective NeuroEvolution in Computer Vision*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876751-c0f4a700-6ebf-11eb-9fbd-a4c70cdbb450.jpg">
 * PhD project by [Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov) 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
@@ -107,6 +109,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Structural Equation Modelling of Quality of Life*
 <img align="right" width=120 src="photoOgochuwku2.jpg"> 
 * PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
+<br/>
 <br/>
 <br/>
 
