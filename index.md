@@ -1,16 +1,16 @@
 
 ## Balaguer-Ballester lab
 
-Our focus is on computational neuroscience. We devise machine learning approaches and models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. 
-In this line of work, the lab's methodology concentrates on the analysis of multi-electrode array recordings and biophysical models in Hilbert spaces; we have also developed mesoscopic models of auditory cortex. In addition, we are partners in a range of appplied data analysis projects.
+Our focus is on computational neuroscience. We devise machine-learning approaches and models for understanding neural dynamics underlying cognition; through close collaborations with human and animal neurophysiology labs. 
+In this line of work, the lab’s methodology concentrates on analyzing multi-electrode array recordings and biophysical models in Hilbert spaces; we have also developed mesoscopic models of the auditory cortex. In addition, we are partners in multiple applied data analysis projects.
 
 #### Featured recent publications
 
+* Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., Vinuesa, R., Diaz, E., Zanna, L. and Runge, J., 2023. [Discovering Causal Relations and Equations from Data](https://arxiv.org/abs/2305.13341). https://arxiv.org/abs/2305.13341.
+* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library] (https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
+* Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
-* Michailidis, L., Balaguer-Ballester, E. and He, X., 2018. [Flow and immersion in video games: The aftermath of a conceptual challenge](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01682/full). Frontiers in Psychology, 9
-* Nogueira, R., Abolafia, J.M., Drugowitsch, J., Balaguer-Ballester, E., Sanchez-Vives, M.V. and Moreno-Bote, R., 2017. [Lateral orbitofrontal cortex anticipates choices and integrates prior with current information](https://www.nature.com/articles/ncomms14823). Nature Communications, 8.
-* Lapish, C.C., Balaguer-Ballester, E., Seamans, J.K., Phillips, A.G. and Durstewitz, D., 2015. [Amphetamine exerts dose-dependent changes in prefrontal cortex attractor dynamics during working memory](http://eprints.bournemouth.ac.uk/22515/1/LapishBalaguer2015.pdf). Journal of Neuroscience, 35 (28), 10172-10187.
 
 #### More information and papers
 
