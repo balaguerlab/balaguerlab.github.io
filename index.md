@@ -95,7 +95,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Affect Recognition in Virtual Reality Environments*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
 * EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
-* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+* Funding: [Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 
 
@@ -113,8 +113,9 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
 * Funding: Self-funded & Bournemouth University.
 
-
-## Lab coordination
+<br/>
+  
+## Lab PI
 #### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 **Contact:**
@@ -134,31 +135,31 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
 
 **[Dr Alejandro Tabas](https://www.cbl-cambridge.org/people/at2045)**
-* Cambrigde University <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
+* [University of Cambrigde](https://www.cbl-cambridge.org/people/at2045)
 
 **[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) ([Xun He's](https://staffprofiles.bournemouth.ac.uk/display/xhe) lab)**
-* Aalto University <!---[Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)-->
+* [Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)
 
 **[Dr Bassma Al-Jubouri](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
-* Norwegian university of science and technology <!---[Norwegian university of science and technology](https://www.ntnu.edu/)-->
+* [Norwegian university of science and technology](https://www.ntnu.edu/)
 
 **[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
-* Wave Healthcare <!---[Wave Healthcare](https://www.wavehealthcare.co.uk/)-->
+* [Wave Healthcare](https://www.wavehealthcare.co.uk/)
 
 **[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari) ([Alexios Mylonas'](https://researchprofiles.herts.ac.uk/portal/en/persons/alexios-mylonas(7fd4165b-8cb0-45c3-945a-ea326ebb3eae).html) lab)**
-* University of Surrey <!---[University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari)-->
+* [University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari)
 
 **[Dr Amir Rafati-Afshar](https://www.linkedin.com/in/aarafatiafshar)**
-* Barnes & Noble, Inc <!---[Barnes & Noble, Inc](https://www.barnesandnobleinc.com/)-->
+* [Barnes & Noble, Inc](https://www.barnesandnobleinc.com/)
 
 **[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
-* Bournemouth University <!---[Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci)-->
+* [Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci)
 
 **[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
-* Konica Minolta Global R&D <!--[Konica Minolta Global R&D](https://research.konicaminolta.com/)-->
+* [Konica Minolta Global R&D](https://research.konicaminolta.com/)
 
 **[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
-* Roxbury Asset <!---[Roxbury Asset](http://roxbury-am.com/)-->
+* [Roxbury Asset](http://roxbury-am.com/)
 
 
 <!---         
