@@ -1,5 +1,5 @@
 
-## Balaguer-Ballester lab
+## Lab scope
 
 Our focus is on computational neuroscience. We devise machine-learning approaches and models for understanding neural dynamics underlying cognition; through close collaborations with human and animal neurophysiology labs. 
 Along this line, the lab’s methodology concentrates on analyzing multi-electrode array recordings and biophysical models in Hilbert spaces; we have also developed mesoscopic models of the auditory cortex and Affect Detection models. We are also partners in multiple Deep Learning and applied Data Science projects.
@@ -115,7 +115,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 <br/>
   
-## Lab PI
+## Lab coordinator/PI
 #### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 **Contact:**
