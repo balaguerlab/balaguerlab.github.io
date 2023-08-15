@@ -6,8 +6,8 @@ In this line of work, the lab’s methodology concentrates on analyzing multi-el
 
 #### Featured recent publications
 
-* Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., Vinuesa, R., Diaz, E., Zanna, L. and Runge, J., 2023. [Discovering Causal Relations and Equations from Data](https://arxiv.org/abs/2305.13341). https://arxiv.org/abs/2305.13341.
-* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library] (https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
+* Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., Vinuesa, R., Diaz, E., Zanna, L. and Runge, J., 2023. [Discovering Causal Relations and Equations from Data](https://arxiv.org/abs/2305.13341). arxiv.org/abs/2305.13341.
+* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 * Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
@@ -68,7 +68,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
-## Collaborative projects
+## Projects
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -77,23 +77,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD topic: Propagation of spontaneous activity in confined neuronal networks.  
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
-
-#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Enteq labs](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)
-
-**[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877488-b7ba0900-6ec4-11eb-934b-89cc2658a354.jpg">
-<!--* In partnership with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka](https://www.linkedin.com/in/charles-nduka-53055218/?originalSubdomain=uk)-->
-* PhD topic: Affective State Recognition in Virtual Reality using head mounted Wearable Sensors.
-* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
-
-#### Collaboration with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)
-
-**[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/104243551-a2caff80-5458-11eb-9c7c-c2037621feb3.png">
-<!--* In partnership with [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe), [Jesus Lucas Barcias-Sony Inc.](https://www.linkedin.com/in/jesus-lucas-barcias-5b3a9521/)-->
-* PhD topic: Uncovering the physiological correlates of the flow experience in virtual reality games.
-* Funding: [Centre for Digtal Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
-
 
 <!--<br/>-->
 
@@ -115,6 +98,12 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD topic: Structural Equation Modelling of Quality of Life  
                      
 #### Previous PhD students
+
+**[Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
+* [Emteq labs](https://www.emteqlabs.com/).
+
+**[Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
+* [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
 
 **[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
 * Technische Universitat Dresden <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
