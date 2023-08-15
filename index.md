@@ -133,8 +133,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 **[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
 * [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
 
-**[Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
-* Technische Universitat Dresden <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
+**[Dr Alejandro Tabas](https://www.cbl-cambridge.org/people/at2045)**
+* Cambrigde University <!---[Technische Universitat Dresden](https://tu-dresden.de/mn/psychologie/ifap/kknw)-->
 
 **[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) ([Xun He's](https://staffprofiles.bournemouth.ac.uk/display/xhe) lab)**
 * Aalto University <!---[Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)-->
