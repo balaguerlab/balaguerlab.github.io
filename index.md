@@ -129,7 +129,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk
 
                      
-## Previous PhD students
+## Former PhD students
 
 **[Dr Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
 * [Emteq labs](https://www.emteqlabs.com/).
