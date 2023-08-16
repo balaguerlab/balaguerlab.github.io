@@ -1,8 +1,9 @@
 
-## Lab scope
+## Balaguer-Ballester lab
 
-Our focus is on computational neuroscience. We devise machine-learning approaches and models for understanding neural dynamics underlying cognition; through close collaborations with human and animal neurophysiology labs. 
-Along this line, the lab’s methodology concentrates on analyzing multi-electrode array recordings and biophysical models in Hilbert spaces; we have also developed mesoscopic models of the auditory cortex and Affect Detection models. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
+Our focus is on computational neuroscience. We devise machine-learning approaches and computational models for understanding neural dynamics underlying cognition; through close collaborations with human and animal neurophysiology labs. 
+<br/>
+Along this line, we analyze multi-electrode array recordings and biophysical models embedded in ambient Hilbert spaces for identifying temporal patterns of collective neuronal activity. We also develop mesoscopic models of the auditory cortex based on neuroimaging data, operating at larger spatial scales. Current research directions also include Affect Detection models leveraging behavioural and physiological responses. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
 
 #### Featured recent publications
 
