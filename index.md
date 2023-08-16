@@ -13,7 +13,7 @@ Along this line, the lab’s methodology concentrates on analyzing multi-electro
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
 #### More information and papers
-[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+**[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
 <br/>
 [Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 <br/>
@@ -92,7 +92,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 
 
-#### Collaboration with [Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
+#### Collaboration with [Ellen Seiss (PI)](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
 *Affect Recognition in Virtual Reality Environments*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
@@ -109,7 +109,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 
 
-#### Collaboration with [Phillip Davies](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
+#### Collaboration with [Phillip Davies (PI)](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
 *Structural Equation Modelling of Quality of Life*
 <img align="right" width=120 src="photoOgochuwku2.jpg"> 
 * PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
@@ -117,7 +117,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 <br/>
   
-## Lab coordinator
+## Lab PI
 #### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 **Contact:**
@@ -134,33 +134,33 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * [Emteq labs](https://www.emteqlabs.com/).
 
 **[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
-* [London Studio Playstation](https://playstationlondonstudio.com/). Sony corp.
+* [London Studio Playstation, Sony Corp.](https://playstationlondonstudio.com/).
 
 **[Dr Alejandro Tabas](https://www.cbl-cambridge.org/people/at2045)**
 * [University of Cambrigde](https://www.cbl-cambridge.org/people/at2045)
 
-**[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz) ([Xun He's](https://staffprofiles.bournemouth.ac.uk/display/xhe) lab)**
+**[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz). [PI: Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)**
 * [Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz)
 
-**[Dr Bassma Al-Jubouri](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas)**
-* [Norwegian university of science and technology](https://www.ntnu.edu/)
+**[Dr Bassma Al-Jubouri](https://www.ntnu.edu/employees/bassma.al-jubouri)**
+* [Norwegian University of Science and Technology](https://www.ntnu.edu/)
 
-**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
+**[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk). [PI: Ben Parris](https://staffprofiles.bournemouth.ac.uk/display/bparris)**
 * [Wave Healthcare](https://www.wavehealthcare.co.uk/)
 
-**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari) ([Alexios Mylonas'](https://researchprofiles.herts.ac.uk/portal/en/persons/alexios-mylonas(7fd4165b-8cb0-45c3-945a-ea326ebb3eae).html) lab)**
+**[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari). [PI: Alexios Mylonas](https://researchprofiles.herts.ac.uk/portal/en/persons/alexios-mylonas)**
 * [University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari)
 
 **[Dr Amir Rafati-Afshar](https://www.linkedin.com/in/aarafatiafshar)**
 * [Barnes & Noble, Inc](https://www.barnesandnobleinc.com/)
 
-**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci) ([Ben Parris'](https://staffprofiles.bournemouth.ac.uk/display/bparris) lab)**
+**[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci). [PI: Ben Parris](https://staffprofiles.bournemouth.ac.uk/display/bparris)**
 * [Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci)
 
-**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
+**[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en). [PI: Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)**
 * [Konica Minolta Global R&D](https://research.konicaminolta.com/)
 
-**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk) ([Hamid Bouchachia's](https://staffprofiles.bournemouth.ac.uk/display/abouchachia) lab)**
+**[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk). [PI: Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)**
 * [Roxbury Asset](http://roxbury-am.com/)
 
 
