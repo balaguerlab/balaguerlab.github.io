@@ -98,7 +98,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Affect Recognition in Virtual Reality Environments*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
 * EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
-* Funding: [EPSRC Centers for Doctoral Training. Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+* Funding: [EPSRC Centers for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 
 
