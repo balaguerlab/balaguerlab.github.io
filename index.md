@@ -39,9 +39,9 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 [<img width="50" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 
-[<img width="20" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
+[<img width="25" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
-[<img width="120" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+[<img width="100" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
@@ -107,6 +107,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Validating Cortical Network Models at the Edge of Asynchrony*
 <img align="right" width=120 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
+
+<br/>
 <br/>
 <br/>
 
