@@ -31,30 +31,20 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 * Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 * Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
-* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
+<!---* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).-->
 
 #### More information and papers
-[    Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+* [    Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 [<img align="left" width=30 src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 <!--**[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**-->
-<br/>
-
-[    Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+* [    Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 [<img align="left" width=30 src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
-<br/>
-
-[    ORCID](http://orcid.org/0000-0002-0695-7191)
+* [    ORCID](http://orcid.org/0000-0002-0695-7191)
 [<img align="left" width=30 src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)
-<br/>
-
-[    Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en))
+* [    Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en))
 [<img align="left" width=30 src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 <!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)--> 
 <!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">]-->
-<br/>
-
-
-
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
 ## Codebases
@@ -90,7 +80,7 @@ Related publications:
 
 #### [Biophysical model of pitch and consonance processing in auditory cortex](https://github.com/qtabs/moch)
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
-[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)
+<!--[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)-->
 
 Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
 
@@ -104,7 +94,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
-## Current projects
+## Active projects
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Validating Cortical Network Models at the Edge of Asynchrony*
@@ -165,10 +155,23 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk
 
                      
-## Former PhD students
+## Completed PhD students
+**[Dr Michal Gnacek](https://scholar.google.ca/citations?user=OOYLt2YAAAAJ)**
+* [Mobile Capital Network](https://www.mobilecapital.net/).
 
-**[Dr Ifigeneia Mavridou](https://staffprofiles.bournemouth.ac.uk/display/imavridou)**
-* [Emteq labs](https://www.emteqlabs.com/).
+EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
+
+**[Dr Roman Arango-Cabrera](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)**
+* [University of Cambrigde](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/).
+
+**[Dr Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)**
+* [Office for National Statistics](https://staffprofiles.bournemouth.ac.uk/display/oijezie).
+
+**[Dr Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov)**
+* [Emteq labs]([https://www.emteqlabs.com/](https://www.countinglabs.co.uk/)).
+
+**[Dr Ifigeneia Mavridou](https://www.tilburguniversity.edu/staff/i-mavridou)**
+* [Tilburg University](https://www.tilburguniversity.edu/staff/i-mavridou).
 
 **[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
 * [London Studio Playstation, Sony Corp.](https://playstationlondonstudio.com/).
