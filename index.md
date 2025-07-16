@@ -1,12 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emili Balaguer-Ballester",
+  "url": "https://balaguerlab.github.io/",
+  "image": "https://balaguerlab.github.io/your-photo-name.jpg",
+  "sameAs": [
+    "https://scholar.google.com/citations?hl=en&user=wEwLTsQAAAAJ",
+    "https://orcid.org/0000-0002-0695-7191",
+    "https://staffprofiles.bournemouth.ac.uk/display/eb-ballester"
+  ],
+  "jobTitle": "Associate Professor",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Bournemouth University"
+  },
+  "knowsAbout": ["Computational Neuroscience","Neural Dynamics","Machine Learning","Auditory Perception", "Data-driven Models", "Virtual Reality"]
+}
+</script>
 
 ## Balaguer-Ballester lab
 
-Our focus is on computational neuroscience. We devise machine-learning approaches and computational models for understanding neural dynamics underlying cognition; through close collaborations with human and animal neurophysiology labs. 
+This is the start of your visible page content...
+## Balaguer-Ballester lab
+
+Our focus is on computational neuroscience. We devise machine-learning approaches and computational models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. 
 <br/>
-Along this line, we analyze multi-electrode array recordings and biophysical models embedded in ambient Hilbert spaces for identifying temporal patterns of collective neuronal activity. We also develop mesoscopic models of the auditory cortex based on neuroimaging data, operating at larger spatial scales. Current research directions also include Affect Detection models leveraging behavioural and physiological responses. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
+Along this line, we analyse multi-electrode array recordings and biophysical models embedded in ambient Hilbert spaces underlying temporal patterns of collective neuronal activity. We also develop mesoscopic models of the auditory cortex based on neuroimaging data, operating at larger spatial scales. Current research directions also include Affect Detection models leveraging behavioural and physiological responses. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
 
 #### Featured recent publications
-
+* Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 * Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., Vinuesa, R., Diaz, E., Zanna, L. and Runge, J., 2023. [Discovering Causal Relations and Equations from Data](https://www.sciencedirect.com/science/article/pii/S0370157323003411). Physics Reports, 1044: 1-68.
 * Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 * Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
@@ -28,6 +51,11 @@ Along this line, we analyze multi-electrode array recordings and biophysical mod
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
 ## Codebases
+#### [AVDOS-VR: Affective Video Database with Physiological Signals in VR](https://bordar.bournemouth.ac.uk/462/)
+
+Related publications
+
+* Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 <!--[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">]-->
