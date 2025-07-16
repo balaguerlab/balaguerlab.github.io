@@ -21,9 +21,6 @@
 
 ## Balaguer-Ballester lab
 
-This is the start of your visible page content...
-## Balaguer-Ballester lab
-
 Our focus is on computational neuroscience. We devise machine-learning approaches and computational models for understanding neural dynamics underlying cognition, through close collaborations with human and animal neurophysiology labs. 
 <br/>
 Along this line, we analyse multi-electrode array recordings and biophysical models embedded in ambient Hilbert spaces underlying temporal patterns of collective neuronal activity. We also develop mesoscopic models of the auditory cortex based on neuroimaging data, operating at larger spatial scales. Current research directions also include Affect Detection models leveraging behavioural and physiological responses. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
@@ -52,6 +49,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 ## Codebases
 #### [AVDOS-VR: Affective Video Database with Physiological Signals in VR](https://bordar.bournemouth.ac.uk/462/)
+[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/michalgnacek/AVDOS-VR)
 
 Related publications
 
