@@ -4,18 +4,50 @@
   "@type": "Person",
   "name": "Emili Balaguer-Ballester",
   "url": "https://balaguerlab.github.io/",
-  "image": "https://balaguerlab.github.io/your-photo-name.jpg",
+  "image": "https://balaguerlab.github.io/FotoAug23Alacant_2e.jpg",
   "sameAs": [
-    "https://scholar.google.com/citations?hl=en&user=wEwLTsQAAAAJ",
+    "https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ",
     "https://orcid.org/0000-0002-0695-7191",
-    "https://staffprofiles.bournemouth.ac.uk/display/eb-ballester"
+    "https://staffprofiles.bournemouth.ac.uk/display/eb-ballester",
+    "https://www.researchgate.net/profile/Emili-Balaguer-Ballester",
+    "https://dblp.org/pid/144/2855.html"
   ],
   "jobTitle": "Associate Professor",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bournemouth University"
+    "name": "Bournemouth University",
+    "sameAs": "https://www.bournemouth.ac.uk/"
   },
-  "knowsAbout": ["Computational Neuroscience","Neural Dynamics","Machine Learning","Auditory Perception", "Data-driven Models", "Virtual Reality"]
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Mannheim"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Heidelberg University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Plymouth"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Seville"
+    }
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Valencia"
+    }
+  ],
+  "knowsAbout": [
+    { "@type": "Thing", "name": "Computational Neuroscience", "sameAs": "http://en.wikipedia.org/wiki/Computational_neuroscience" },
+    { "@type": "Thing", "name": "Machine Learning", "sameAs": "http://en.wikipedia.org/wiki/Machine_learning" },
+    "Neural Dynamics",
+    "Auditory Perception", 
+    "Data-driven Models", 
+    "Virtual Reality"
+  ]
 }
 </script>
 
@@ -41,7 +73,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 [<img width="27" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
-[<img width="95" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+[<img width="99" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
