@@ -34,15 +34,27 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 <!---* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).-->
 
 #### More information and papers
-* [    Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+#### More information and papers
+
+[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+
+[<img width="30" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+
+[<img width="30" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
+
+[<img width="30" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+
+
+<!--[Bournemouth University Staff Profile]&nbsp;(https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 [<img align="left" width=30 src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
-<!--**[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**-->
-* [    Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+>[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University]&nbsp;(https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 [<img align="left" width=30 src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
-* [    ORCID](http://orcid.org/0000-0002-0695-7191)
+>[ORCID](http://orcid.org/0000-0002-0695-7191)
 [<img align="left" width=30 src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)
-* [    Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en))
-[<img align="left" width=30 src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+>[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en))
+[<img align="left" width=30 src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)-->
+
+
 <!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)--> 
 <!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">]-->
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
@@ -158,8 +170,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 ## Completed PhD students
 **[Dr Michal Gnacek](https://scholar.google.ca/citations?user=OOYLt2YAAAAJ)**
 * [Mobile Capital Network](https://www.mobilecapital.net/).
-
-EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
 
 **[Dr Roman Arango-Cabrera](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)**
 * [University of Cambrigde](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/).
