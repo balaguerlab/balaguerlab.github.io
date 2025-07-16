@@ -89,11 +89,11 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 #### More information and papers
 
-[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;&nbsp;&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+[<img width="35" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;&nbsp;&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
-[<img width="50" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+[<img width="55" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 
-[<img width="27" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
+[<img width="29" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
 [<img width="105" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
@@ -103,7 +103,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 ## Codebases
 #### [AVDOS-VR: Affective Video Database with Physiological Signals in VR](https://bordar.bournemouth.ac.uk/462/)
-[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/michalgnacek/AVDOS-VR)
+[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/michalgnacek/AVDOS-VR)
 
 Related publications
 
@@ -137,7 +137,7 @@ Related publications:
 <br/>
 
 #### [Biophysical model of pitch and consonance processing in auditory cortex](https://github.com/qtabs/moch)
-[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
+[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
 <!--[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)-->
 
 Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
