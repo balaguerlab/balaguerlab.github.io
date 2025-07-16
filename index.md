@@ -37,7 +37,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 [<img align="left" width=30 src="https://user-images.githubusercontent.com/bournemouth-university-logo-png_seeklogo-21731.png">]
 [Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
-**[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**
+<!--**[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)**-->
 <br/>
 [Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 <br/>
