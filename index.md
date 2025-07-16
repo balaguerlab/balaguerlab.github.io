@@ -106,7 +106,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Validating Cortical Network Models at the Edge of Asynchrony*
 <img align="right" width=120 src="The_Royal_Society_logo.png">
-* Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
+* Funding: [Royal Society International Exchanges (March 2021-March 2025).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 
 <br/>
 <br/>
@@ -118,7 +118,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 <br/>
 
-#### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
+#### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 
 *Propagation of spontaneous activity in confined neuronal networks*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877316-8856cc80-6ec3-11eb-80aa-5c249ee165da.jpg">
