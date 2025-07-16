@@ -221,49 +221,49 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
                      
 ## Completed PhD students
 **[Dr Michal Gnacek](https://scholar.google.ca/citations?user=OOYLt2YAAAAJ). [PI: Dr Ellen Seiss](https://staffprofiles.bournemouth.ac.uk/display/eseiss)**
-* [Mobile Capital Network](https://www.mobilecapital.net/).
+* [Mobile Capital Network.](https://www.mobilecapital.net/)
 
 **[Dr Roman Arango-Cabrera](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)**
-* [University of Cambrigde](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/).
+* [University of Cambrigde.](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)
 
 **[Dr Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie). [PI: Dr Phillip Davies](https://www.researchgate.net/profile/Philip-Davies-5)**
-* [Office for National Statistics](https://staffprofiles.bournemouth.ac.uk/display/oijezie).
+* [Office for National Statistics.](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
 
 **[Dr Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov)**
-* [Counting Labs](https://www.countinglabs.co.uk/).
+* [Counting Labs.](https://www.countinglabs.co.uk/)
 
 **[Dr Ifigeneia Mavridou](https://www.tilburguniversity.edu/staff/i-mavridou)**
-* [Tilburg University](https://www.tilburguniversity.edu/staff/i-mavridou).
+* [Tilburg University.](https://www.tilburguniversity.edu/staff/i-mavridou)
 
 **[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
-* [London Studio Playstation, Sony Corp](https://playstationlondonstudio.com/).
+* [London Studio Playstation, Sony Corp.](https://playstationlondonstudio.com/)
 
 **[Dr Alejandro Tabas](https://www.cbl-cambridge.org/people/at2045)**
-* [University of Cambrigde](https://www.cbl-cambridge.org/people/at2045).
+* [University of Cambrigde.](https://www.cbl-cambridge.org/people/at2045)
 
 **[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz). [PI: Dr Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)**
-* [Aalto University](https://research.aalto.fi/en/persons/juan-avendano-diaz).
+* [Aalto University.](https://research.aalto.fi/en/persons/juan-avendano-diaz)
 
 **[Dr Bassma Al-Jubouri](https://www.ntnu.edu/employees/bassma.al-jubouri)**
-* [Norwegian University of Science and Technology](https://www.ntnu.edu/).
+* [Norwegian University of Science and Technology.](https://www.ntnu.edu/)
 
 **[Dr Rebecca Elisa](https://www.linkedin.com/in/rebecca-elisa-phd-0747a484/?originalSubdomain=uk). [PI: Dr Ben Parris](https://staffprofiles.bournemouth.ac.uk/display/bparris)**
-* [Wave Healthcare](https://www.wavehealthcare.co.uk/).
+* [Wave Healthcare.](https://www.wavehealthcare.co.uk/)
 
 **[Dr Mohammad Heydari](https://www.surrey.ac.uk/people/mohammad-heydari). [PI: Dr Alexios Mylonas](https://researchprofiles.herts.ac.uk/portal/en/persons/alexios-mylonas)**
-* [University of Surrey](https://www.surrey.ac.uk/people/mohammad-heydari).
+* [University of Surrey.](https://www.surrey.ac.uk/people/mohammad-heydari)
 
 **[Dr Amir Rafati-Afshar](https://www.linkedin.com/in/aarafatiafshar)**
-* [Barnes & Noble, Inc](https://www.barnesandnobleinc.com/).
+* [Barnes & Noble, Inc.](https://www.barnesandnobleinc.com/)
 
 **[Dr Gizem Abaraci](https://staffprofiles.bournemouth.ac.uk/display/garabaci). [PI: Dr Ben Parris](https://staffprofiles.bournemouth.ac.uk/display/bparris)**
-* [Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/garabaci).
+* [Bournemouth University.](https://staffprofiles.bournemouth.ac.uk/display/garabaci)
 
 **[Dr Mohsen Amiribesheli](https://scholar.google.com/citations?user=hm3nTqgAAAAJ&hl=en). [PI: Dr Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)**
-* [Konica Minolta Global R&D](https://research.konicaminolta.com/).
+* [Konica Minolta Global R&D.](https://research.konicaminolta.com/)
 
 **[Dr Waqas Jamil](https://www.linkedin.com/in/waqas-jamil-360a6721/?originalSubdomain=uk). [PI: Dr Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)**
-* [Roxbury Asset](http://roxbury-am.com/).
+* [Roxbury Asset.](http://roxbury-am.com/)
 
 
 <!---         
