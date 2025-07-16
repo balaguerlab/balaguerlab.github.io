@@ -18,34 +18,57 @@
     "name": "Bournemouth University",
     "sameAs": "https://www.bournemouth.ac.uk/"
   },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Interdisciplinary Neuroscience Research Centre",
+    "url": "https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre"
+  },
+
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Organization for Computational Neuroscience",
+    "url": "https://www.cnsorg.org/"
+  },
+
+    "memberOf": {
+    "@type": "Organization",
+    "name": "Bernstein Centre for Computational Neuroscience Heidelberg-Mannheim",
+    "url": "https://www.cnsorg.org/](https://bernstein-network.de/en/network/bernstein-centers/heidelberg-mannheim/"
+  },
+  
   "alumniOf": [
     {
       "@type": "CollegeOrUniversity",
-      "name": "University of Mannheim"
+      "name": "University of Mannheim",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Mannheim"
     },
     {
       "@type": "CollegeOrUniversity",
-      "name": "Heidelberg University"
+      "name": "Heidelberg University",
+      "sameAs": "https://en.wikipedia.org/wiki/Heidelberg_University"
     },
     {
       "@type": "CollegeOrUniversity",
-      "name": "University of Plymouth"
+      "name": "University of Plymouth",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Plymouth"
     },
     {
       "@type": "CollegeOrUniversity",
-      "name": "University of Seville"
-    }
+      "name": "University of Seville",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Seville"
+    },
     {
       "@type": "CollegeOrUniversity",
-      "name": "University of Valencia"
+      "name": "University of Valencia",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Valencia"
     }
   ],
   "knowsAbout": [
     { "@type": "Thing", "name": "Computational Neuroscience", "sameAs": "http://en.wikipedia.org/wiki/Computational_neuroscience" },
     { "@type": "Thing", "name": "Machine Learning", "sameAs": "http://en.wikipedia.org/wiki/Machine_learning" },
     "Neural Dynamics",
-    "Auditory Perception", 
-    "Data-driven Models", 
+    "Auditory Perception",
+    "Data-driven Models",
     "Virtual Reality"
   ]
 }
@@ -73,7 +96,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 [<img width="27" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
-[<img width="110" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+[<img width="105" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
