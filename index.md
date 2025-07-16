@@ -35,28 +35,17 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 #### More information and papers
 
-[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;&nbsp;&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
-[<img width="30" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+[<img width="50" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 
-[<img width="30" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
+[<img width="20" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
-[<img width="60" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+[<img width="120" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
-
-<!--[Bournemouth University Staff Profile]&nbsp;(https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
-[<img align="left" width=30 src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
->[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University]&nbsp;(https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
-[<img align="left" width=30 src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
->[ORCID](http://orcid.org/0000-0002-0695-7191)
-[<img align="left" width=30 src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)
->[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en))
-[<img align="left" width=30 src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)-->
-
-
-<!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">](https://twitter.com/emilibalball) [@emilibalball](https://twitter.com/emilibalball)--> 
-<!--[<img align="left" width=30 src="https://user-images.githubusercontent.com/75138250/107884289-134bbd00-6eec-11eb-815f-249dc22d9a4b.jpg">]-->
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
+
+<br/>
 
 ## Codebases
 #### [AVDOS-VR: Affective Video Database with Physiological Signals in VR](https://bordar.bournemouth.ac.uk/462/)
@@ -110,6 +99,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
+<br/>
+
 ## Active projects
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
@@ -117,14 +108,12 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2024).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 <br/>
-<br/>
 
 #### Collaboration with [Andrew Rowley](https://apt.cs.manchester.ac.uk/people/arowley/), [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Neuromorphic Hardware Operating at the Edge of Asynchrony*
 <img align="right" width=120 src="HBP-Logo_thin.png">
 * Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
 
-<br/>
 <br/>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
@@ -136,7 +125,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
 <br/>
-<br/>
 
 #### Collaboration with [Ellen Seiss (PI)](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
@@ -146,7 +134,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Funding: [EPSRC Centers for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 <br/>
-<br/>
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
 *Efficient Multi-Objective NeuroEvolution in Computer Vision*
@@ -154,7 +141,6 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD project by [Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov) 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
 
-<br/>
 <br/>
 
 #### Collaboration with [Phillip Davies (PI)](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
@@ -175,6 +161,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * Phone: +44 (0)1202 965 795.
 * Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk
 
+<br/>
                      
 ## Completed PhD students
 **[Dr Michal Gnacek](https://scholar.google.ca/citations?user=OOYLt2YAAAAJ)**
