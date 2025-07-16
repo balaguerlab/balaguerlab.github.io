@@ -34,15 +34,14 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 <!---* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).-->
 
 #### More information and papers
-#### More information and papers
 
-[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
+[<img width="30" src="/bournemouth-university-logo-png_seeklogo-21731.png">](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)&nbsp;&nbsp;[Bournemouth University Staff Profile](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
-[<img width="30" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
+[<img width="30" src="/10608 BU Research Centre Logos - INRC PORTRAIT RGB WEB V3.0.jpg">](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)&nbsp;&nbsp;[Interdisciplinary Neuroscience Research Centre (INRC) at Bournemouth University](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre)
 
-[<img width="30" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
+[<img width="30" src="/ORCID_iD.svg.png">](http://orcid.org/0000-0002-0695-7191)&nbsp;&nbsp;[ORCID](http://orcid.org/0000-0002-0695-7191)
 
-[<img width="30" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
+[<img width="60" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
 
 <!--[Bournemouth University Staff Profile]&nbsp;(https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
@@ -67,6 +66,8 @@ Related publications
 
 * Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 
+<br/>
+
 #### [Higher-order Correlations in Neuronal Ensembles](https://doi.org/10.5281/zenodo.4306359)
 <!--[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">]-->
 <!--(https://github.com/balaguerlab/hoc)-->
@@ -76,6 +77,7 @@ Related publications
 
 * Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
 
+<br/>
 
 #### [Neuronal Trajectories Reconstruction](https://doi.org/10.5281/zenodo.4306743)
 <!--[<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">]-->
@@ -89,6 +91,7 @@ Related publications:
 * Balaguer-Ballester, E., Tabas-Diaz, A. and Budka, M., 2014. [Can we identify non-stationary dynamics of trial-to-trial variability?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095648). PLoS One, 9 (4).
 * Balaguer-Ballester, E., Lapish, C.C., Seamans, J.K. and Durstewitz, D., 2011. [Attracting dynamics of frontal cortex ensembles during memory-guided decision-making](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002057). PLoS Comput Biol, 7 (5), e1002057.
 
+<br/>
 
 #### [Biophysical model of pitch and consonance processing in auditory cortex](https://github.com/qtabs/moch)
 [<img align="right" width=40 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
@@ -98,6 +101,7 @@ Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psycholo
 
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
+<br/>
 
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 [<img align="right" width=115 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
@@ -120,6 +124,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 <img align="right" width=120 src="HBP-Logo_thin.png">
 * Funding: [Human Brain Project, Vouchers Scheme (July 2022-Sept 2023). European Research Council.](https://www.humanbrainproject.eu/en/)
 
+<br/>
+<br/>
 
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)
 
@@ -129,7 +135,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD project by [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
-
+<br/>
+<br/>
 
 #### Collaboration with [Ellen Seiss (PI)](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
@@ -138,7 +145,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
 * Funding: [EPSRC Centers for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
-
+<br/>
+<br/>
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
 *Efficient Multi-Objective NeuroEvolution in Computer Vision*
@@ -146,7 +154,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 * PhD project by [Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov) 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
 
-
+<br/>
+<br/>
 
 #### Collaboration with [Phillip Davies (PI)](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
 *Structural Equation Modelling of Quality of Life*
