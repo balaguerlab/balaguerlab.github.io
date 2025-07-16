@@ -18,21 +18,23 @@
     "name": "Bournemouth University",
     "sameAs": "https://www.bournemouth.ac.uk/"
   },
-  "memberOf": {
-    "@type": "Organization",
-    "name": "Interdisciplinary Neuroscience Research Centre",
-    "url": "https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre"
-  },
-  "memberOf": {
-    "@type": "Organization",
-    "name": "Organization for Computational Neuroscience",
-    "url": "https://www.cnsorg.org/"
-  },
-  "memberOf": {
-    "@type": "Organization",
-    "name": "Bernstein Centre for Computational Neuroscience Heidelberg Mannheim",
-    "url": "https://bernstein-network.de/en/network/bernstein-centers/heidelberg-mannheim/"
-  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Interdisciplinary Neuroscience Research Centre",
+      "url": "https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre"
+    },
+    {
+      "@type": "Organization",
+      "name": "Organization for Computational Neuroscience",
+      "url": "https://www.cnsorg.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Bernstein Centre for Computational Neuroscience Heidelberg Mannheim",
+      "url": "https://bernstein-network.de/en/network/bernstein-centers/heidelberg-mannheim/"
+    }
+  ],
   "alumniOf": [
     {
       "@type": "CollegeOrUniversity",
