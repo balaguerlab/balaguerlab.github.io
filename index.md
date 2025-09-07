@@ -80,11 +80,16 @@ Our focus is on computational neuroscience. We devise machine-learning approache
 Along this line, we analyse multi-electrode array recordings and biophysical models embedded in ambient Hilbert spaces underlying temporal patterns of collective neuronal activity. We also develop mesoscopic models of the auditory cortex based on neuroimaging data, operating at larger spatial scales. Current research directions also include Affect Detection models leveraging behavioural and physiological responses. In addition, we are partners in multiple Deep Learning and applied Data Science projects.
 
 #### Featured recent publications
+
+* Gnacek, M., Özhan, N., Broulidakis, J., Mavridou, I., Kostoulas, T., Balaguer-Ballester, E., Gjoreski, M., Gjoreski, H., Garner, M., Graf, E., Nduka, C. and Seiss, E., 2025. [Multi-modal physiological markers of arousal induced by CO2 inhalation in Virtual Reality](https://www.sciencedirect.com/science/article/pii/S1566253525007158). Information Fusion, In Press.
+* Mavridou, I., Balaguer-Ballester, E., Kostoulas, T. and Seiss, E., [Affect recognition in immersive room-scale environments: A large-scale VR study with custom facial sensing at the Science Museum in London](https://ieeexplore.ieee.org/abstract/document/11145898). IEEE Access, In Press.
 * Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 * Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., Vinuesa, R., Diaz, E., Zanna, L. and Runge, J., 2023. [Discovering Causal Relations and Equations from Data](https://www.sciencedirect.com/science/article/pii/S0370157323003411). Physics Reports, 1044: 1-68.
-* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
+* Dimanov, D., Singleton, C., Rostami, S. and Balaguer-Ballester, E., 2023. [MEOW-Multi-Objective Evolutionary Weapon Detection](https://proceedings.mlr.press/v224/dimanov23a). Proceedings of Machine Learning Research, PMLR 224:5/1-20.
 * Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
-* Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).
+
+<!---* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.--!>
+<!--* Balaguer-Ballester, E., Nogueira, R., Abofalia, J.M., Moreno-Bote, R. and Sanchez-Vives, M.V., 2020. [Representation of foreseeable choice outcomes in orbitofrontal cortex triplet-wise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007862). PLoS Computational Biology, 16 (6).---!>
 <!---* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).-->
 
 #### More information and papers
@@ -108,6 +113,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 Related publications
 
 * Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
+* Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 
 <br/>
 
@@ -141,7 +147,7 @@ Related publications:
 <!--[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)-->
 
 Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
-
+* Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
 * Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
 <br/>
