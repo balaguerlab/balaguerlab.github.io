@@ -112,6 +112,8 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 Related publications
 
+* Gnacek, M., Özhan, N., Broulidakis, J., Mavridou, I., Kostoulas, T., Balaguer-Ballester, E., Gjoreski, M., Gjoreski, H., Garner, M., Graf, E., Nduka, C. and Seiss, E., 2025. [Multi-modal physiological markers of arousal induced by CO2 inhalation in Virtual Reality](https://www.sciencedirect.com/science/article/pii/S1566253525007158). Information Fusion, In Press.
+
 * Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 * Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 
@@ -155,7 +157,7 @@ Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psycholo
 #### [Hierarchical model of pitch perception with top-down modulation](https://sourceforge.net/projects/topdownpitchmodel/files/)
 [<img align="right" width=115 src="https://user-images.githubusercontent.com/75138250/107883701-51df7880-6ee8-11eb-8770-4088497162a1.png">](https://sourceforge.net/projects/topdownpitchmodel/files/)
 
-Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandro-tabas). Related publications:
 * Tabas, A., Siebert, A., Supek, S., Pressnitzer, D., Balaguer-Ballester, E. and Rupp, A., 2016. [Insights on the neuromagnetic representation of temporal asymmetry in human auditory cortex](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153947). PLoS ONE, 11 (4).
 * Balaguer-Ballester, E., Clark, N.R., Coath, M., Krumbholz, K. and Denham, S.L., 2009. [Understanding pitch perception as a hierarchical process with top-down modulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301). PLoS Comput Biol, 5 (3), e1000301.
 
@@ -165,7 +167,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Validating Cortical Network Models at the Edge of Asynchrony*
-<img align="right" width=120 src="The_Royal_Society_logo.png">
+<img align="right" width=110 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2025).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 
 <br/>
@@ -193,7 +195,7 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 *Affect Recognition in Virtual Reality Environments*
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
 * EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
-* Funding: [EPSRC Centers for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
+* Funding: [EPSRC Centre for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
 <br/>
 
@@ -218,10 +220,11 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 
 **Contact:**
 <img align="right" width=120 src="FotoAug23Alacant_2e.jpg">
-* Faculty of Science and Technology, [Department of Computing](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
+* Faculty of Media, Science and Technology, [School of Computing and Engineering](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
 * [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
 * Phone: +44 (0)1202 965 795.
-* Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk
+  <!--* Twitter: @emilibalball. Email: eb-ballester@bournemouth.ac.uk--!>
+
 
 <br/>
                      
@@ -244,8 +247,8 @@ Updated by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/d
 **[Dr Aris Michailidis](https://loop.frontiersin.org/people/520360/bio)**
 * [London Studio Playstation, Sony Corp.](https://playstationlondonstudio.com/)
 
-**[Dr Alejandro Tabas](https://www.cbl-cambridge.org/people/at2045)**
-* [University of Cambrigde.](https://www.cbl-cambridge.org/people/at2045)
+**[Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandro-tabas)**
+* [Basque Centre for Cognition, Brain and Language.](https://www.bcbl.eu/en/conocenos/equipo/alejandro-tabas)
 
 **[Dr Juan Camilo Avendaño Diaz](https://research.aalto.fi/en/persons/juan-avendano-diaz). [PI: Dr Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)**
 * [Aalto University.](https://research.aalto.fi/en/persons/juan-avendano-diaz)
