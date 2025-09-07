@@ -103,7 +103,7 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 [<img width="108" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
-[<img width="108" src="/AD Scientific Index_idIOJ5KFjy_2.jpeg">](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)&nbsp;&nbsp;[AD Scientific Index](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)
+[<img width="32" src="/AD Scientific Index_idIOJ5KFjy_2.jpeg">](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)&nbsp;&nbsp;[AD Scientific Index](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)
 
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
@@ -186,7 +186,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 #### Collaboration with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 
 *Propagation of spontaneous activity in confined neuronal networks*
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877316-8856cc80-6ec3-11eb-80aa-5c249ee165da.jpg">
+<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/107877316-8856cc80-6ec3-11eb-80aa-5c249ee165da.jpg">
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD project by [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
 * Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institute for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
@@ -196,7 +196,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 #### Collaboration with [Ellen Seiss (PI)](https://staffprofiles.bournemouth.ac.uk/display/eseiss), [Theodoros Kostolulas](https://www.theodoros-kostoulas.com/), [Charles Nduka-Emteq labs](https://www.emteqlabs.com/)
 
 *Affect Recognition in Virtual Reality Environments*
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
+<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/107876848-91926a00-6ec0-11eb-90fb-2c8247223cef.png">
 * EngD project by [Michal Gnacek](https://uk.linkedin.com/in/gnacek)
 * Funding: [EPSRC Centre for Doctoral Training -Centre for Digital Entertainment](https://www.digital-entertainment.org/). Bournemouth University/Bath University & [Emteq labs](https://www.emteqlabs.com/).
 
@@ -204,7 +204,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 
 #### Collaboration with [Shahin Rostami](https://www.linkedin.com/in/shahinrostami/?originalSubdomain=uk), [Colin Singelton-Counting labs](https://www.countinglabs.co.uk/)
 *Efficient Multi-Objective NeuroEvolution in Computer Vision*
-<img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107876751-c0f4a700-6ebf-11eb-9fbd-a4c70cdbb450.jpg">
+<img align="right" width=100 src="https://user-images.githubusercontent.com/75138250/107876751-c0f4a700-6ebf-11eb-9fbd-a4c70cdbb450.jpg">
 * PhD project by [Daniel Dimanov](https://www.researchgate.net/profile/Daniel_Dimanov) 
 * Funding: [Counting labs](https://www.countinglabs.co.uk/) & Bournemouth University.
 
@@ -212,7 +212,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 
 #### Collaboration with [Phillip Davies (PI)](https://staffprofiles.bournemouth.ac.uk/display/daviesp), [Jane Healy](https://staffprofiles.bournemouth.ac.uk/display/jhealy)
 *Structural Equation Modelling of Quality of Life*
-<img align="right" width=120 src="photoOgochuwku2.jpg"> 
+<img align="right" width=100 src="photoOgochuwku2.jpg"> 
 * PhD project by [Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
 * Funding: Self-funded & Bournemouth University.
 
@@ -222,7 +222,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 #### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 **Contact:**
-<img align="right" width=120 src="FotoAug23Alacant_2e.jpg">
+<img align="right" width=100 src="FotoAug23Alacant_2e.jpg">
 * Faculty of Media, Science and Technology, [School of Computing and Engineering](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
 * [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
 * Phone: +44 (0)1202 965 795.
