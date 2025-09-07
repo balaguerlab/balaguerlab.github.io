@@ -103,6 +103,8 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 
 [<img width="108" src="/scholar_logo_64dp.png">](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ&hl=en)
 
+[<img width="108" src="/AD Scientific Index_idIOJ5KFjy_2.jpeg">](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)&nbsp;&nbsp;[AD Scientific Index](https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519)
+
 <!--Our methodology stems from the combination of Hilbert spaces with dynamical systems, through close collaborations with experimental labs in human and animal neurophysiology--> 
 
 <br/>
@@ -187,7 +189,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 <img align="right" width=120 src="https://user-images.githubusercontent.com/75138250/107877316-8856cc80-6ec3-11eb-80aa-5c249ee165da.jpg">
 <!--* In partnership with [Mavi Sanchez-Vives](https://www.sanchez-vives.org/) and [Xun He](https://staffprofiles.bournemouth.ac.uk/display/xhe)-->
 * PhD project by [Roman Arango-Cabrera](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/)
-* Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institue for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
+* Funding: [Async-Prop](https://www.humanbrainproject.eu/en/about/project-structure/partnering-projects/async-prop/). Partnering Project of the HBP SP3 (EU H2020 Research and Innovation Programme). [Bournemouth University](https://www.bournemouth.ac.uk/) & [Institute for Biomedical Research 'August Pi in Sunyer'](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience). 
 
 <br/>
 
