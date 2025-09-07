@@ -167,7 +167,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 
 #### Collaboration with [Maurizio Mattia](https://www.researchgate.net/profile/Maurizio-Mattia), [Andrea Galuzzi](https://www.researchgate.net/profile/Andrea-Galluzzi) and [Mavi Sanchez-Vives](https://www.sanchez-vives.org/)
 *Validating Cortical Network Models at the Edge of Asynchrony*
-<img align="right" width=110 src="The_Royal_Society_logo.png">
+<img align="right" width=100 src="The_Royal_Society_logo.png">
 * Funding: [Royal Society International Exchanges (March 2021-March 2025).](https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/)
 
 <br/>
@@ -233,7 +233,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 * [Mobile Capital Network.](https://www.mobilecapital.net/)
 
 **[Dr Roman Arango-Cabrera](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)**
-* [University of Cambrigde.](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)
+* [University of Cambridge.](https://www.linkedin.com/in/rom%C3%A1n-arango-1856245a/)
 
 **[Dr Ogochukwu Ijezie](https://staffprofiles.bournemouth.ac.uk/display/oijezie). [PI: Dr Phillip Davies](https://www.researchgate.net/profile/Philip-Davies-5)**
 * [Office for National Statistics.](https://staffprofiles.bournemouth.ac.uk/display/oijezie)
