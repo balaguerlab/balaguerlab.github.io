@@ -8,6 +8,7 @@
   "sameAs": [
     "https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ",
     "https://orcid.org/0000-0002-0695-7191",
+    "https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519"
     "https://staffprofiles.bournemouth.ac.uk/display/eb-ballester",
     "https://www.researchgate.net/profile/Emili-Balaguer-Ballester",
     "https://dblp.org/pid/144/2855.html"
@@ -148,9 +149,9 @@ Related publications:
 [<img align="right" width=51 src="https://user-images.githubusercontent.com/75138250/107883365-83574480-6ee6-11eb-86f6-0ee6d4df6bdd.jpg">](https://github.com/qtabs/moch)
 <!--[<img align="right" width=50 src="https://user-images.githubusercontent.com/75138250/107883732-805d5380-6ee8-11eb-8b8d-eca096562855.png">](https://github.com/qtabs/moch)-->
 
-Created and Maintained by [Dr Alejandro Tabas](https://tu-dresden.de/mn/psychologie/ifap/kknw/die-professur/beschaeftigte-1/tabas). Related publications:
+Created and maintained by [Dr Alejandro Tabas](https://www.ikerbasque.net/en/alejandro-tabas). Related publications:
 * Rupp, A., Englitz, B., Balaguer-Ballester, E. and Andermann, M., 2022. Editorial: [Early neural processing of musical melodies](https://www.frontiersin.org/research-topics/17250/early-neural-processing-of-musical-melodies). Frontiers in Human Neuroscience, 16.
-* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modeling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
+* Tabas, A., Andermann, M., Schuberth, V., Riedel, H., Balaguer-Ballester, E. and Rupp, A., 2019. [Modelling and MEG evidence of early consonance processing in auditory cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006820) PLoS Computational Biology, 15 (2).
 
 <br/>
 
