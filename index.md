@@ -116,7 +116,6 @@ Along this line, we analyse multi-electrode array recordings and biophysical mod
 Related publications
 
 * Gnacek, M., Özhan, N., Broulidakis, J., Mavridou, I., Kostoulas, T., Balaguer-Ballester, E., Gjoreski, M., Gjoreski, H., Garner, M., Graf, E., Nduka, C. and Seiss, E., 2025. [Multi-modal physiological markers of arousal induced by CO2 inhalation in Virtual Reality](https://www.sciencedirect.com/science/article/pii/S1566253525007158). Information Fusion, In Press.
-
 * Gnacek, M., Quintero, L., Mavridou, I., Balaguer-Ballester, E., Kostoulas, T., Nduka, C. and Seiss, E., 2024. AVDOS-VR: [Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR](https://eprints.bournemouth.ac.uk/39384/). Nature Scientific Data, 11 (1).
 * Mavridou, I., Balaguer-Ballester, E., Nduka, C. and Seiss, E., 2023. [A reliable and robust online validation method for creating a novel 3D Affective Virtual Environment and Event Library](https://eprints.bournemouth.ac.uk/38441/1/Mavridou_2023.pdf). PLoS ONE, 18.
 
