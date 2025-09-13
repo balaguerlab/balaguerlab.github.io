@@ -8,7 +8,7 @@
   "sameAs": [
     "https://scholar.google.co.uk/citations?user=wEwLTsQAAAAJ",
     "https://orcid.org/0000-0002-0695-7191",
-    "https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519"
+    "https://www.adscientificindex.com/scientist/emili-balaguer-ballester/4329519",
     "https://staffprofiles.bournemouth.ac.uk/display/eb-ballester",
     "https://www.researchgate.net/profile/Emili-Balaguer-Ballester",
     "https://dblp.org/pid/144/2855.html"
