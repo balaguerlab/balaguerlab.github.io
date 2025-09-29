@@ -221,7 +221,7 @@ Updated by [Dr Alejandro Tabas](https://www.bcbl.eu/en/conocenos/equipo/alejandr
 #### [Emili Balaguer-Ballester, Associate Professor, Bournemouth University](https://staffprofiles.bournemouth.ac.uk/display/eb-ballester)
 
 **Contact:**
-<img align="right" width=100 src="59-BHS09684_BH Scenes.jpg">
+<img align="right" width=100 src="59-BHS09684_BH Scenes_closer.jpg">
 * Faculty of Media, Science and Technology, [School of Computing and Engineering](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics)
 * [Interdisciplinary Neuroscience Research Centre](https://www.bournemouth.ac.uk/research/centres-institutes/interdisciplinary-neuroscience-research-centre), Bournemouth University. BH12 5BB Bournemouth, UK.
 * Phone: +44 (0)1202 965 795.
